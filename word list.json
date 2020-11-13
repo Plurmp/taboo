@@ -1,3 +1,19 @@
 {
-  "table":[["guessword", "taboo1", "taboo2", "taboo3"]]
+  "table":[
+    ["noble", "honor", "lord", "knight", "honour"],
+    ["labor", "work", "Marx", "difficult", "labour"],
+    ["trend", "fad", "line", "tendency", "trendy"],
+    ["red", "blood", "heart", "color", "anger"],
+    ["affair", "sex", "love", "subject", "cheat", "marriage"],
+    ["dare", "coerce", "hazing", "force", "dog", "double"],
+    ["syndrome", "illness", "medical", "sickness"],
+    ["justice", "liberty", "truth", "police", "league", "court"],
+    ["anger", "mad", "angry", "feel", "red", "emotion"],
+    ["uniform", "soldier", "same", "army", "military"],
+    ["bride", "wedding", "wife", "dress", "veil", "kiss"],
+    ["midnight", "twelve", "12", "middle", "night"],
+    ["planet", "world", "solar", "Earth", "Mars"],
+    ["seed", "tree", "plant", "fruit", "grow"],
+    ["volcano", "lava", "magma", "mountain", "Hawaii"]
+  ]
 }

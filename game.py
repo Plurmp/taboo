@@ -1,6 +1,6 @@
-import discord
-
 import random
+
+import discord
 
 
 def has_word(phrase, word):

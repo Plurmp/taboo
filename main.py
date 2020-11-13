@@ -1,9 +1,9 @@
-import discord
-
-from os import environ as cred
-import time
 import json
 import random
+import time
+from os import environ as cred
+
+import discord
 
 import game
 
